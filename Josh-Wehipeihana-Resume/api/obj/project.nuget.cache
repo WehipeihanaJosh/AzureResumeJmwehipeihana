@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hz2n2kvMFgMpC7hszCbuBleeazmpL9o7NA6UUHiGsx1FdP3+yovukntPfqCUI1IkYzE+18tlGLHAlHFF8HMrvg==",
+  "dgSpecHash": "/sG3fut3HftlCDv0O25dfCYD3OlkgidkQkQDqiSvIP2AhbfXi6qGJSBG3x0NYoHu3EIbkUBtPwXaGl8yz/LcZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JMWehipeihana\\Desktop\\Resume\\Josh-Wehipeihana-Resume\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\JMWehipeihana\\Desktop\\My Stuff\\AzureResumeJmwehipeihana\\AzureResumeJmwehipeihana\\Josh-Wehipeihana-Resume\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\azure.identity\\1.4.0\\azure.identity.1.4.0.nupkg.sha512",
