@@ -52,6 +52,14 @@
               "target": "Package",
               "version": "[4.5.1, )"
             },
+            "Microsoft.Azure.WebJobs.Extensions.CosmosDB": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.NET.Sdk.Functions": {
               "target": "Package",
               "version": "[4.2.0, )"

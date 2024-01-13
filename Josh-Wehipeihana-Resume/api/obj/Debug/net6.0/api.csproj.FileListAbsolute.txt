@@ -66,3 +66,11 @@ C:\Users\JMWehipeihana\Desktop\Resume\Josh-Wehipeihana-Resume\api\obj\Debug\net6
 C:\Users\JMWehipeihana\Desktop\Resume\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\refint\api.dll
 C:\Users\JMWehipeihana\Desktop\Resume\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.pdb
 C:\Users\JMWehipeihana\Desktop\Resume\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\ref\api.dll
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.dll
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\JMWehipeihana\Desktop\My Stuff\AzureResumeJmwehipeihana\AzureResumeJmwehipeihana\Josh-Wehipeihana-Resume\api\obj\Debug\net6.0\api.pdb

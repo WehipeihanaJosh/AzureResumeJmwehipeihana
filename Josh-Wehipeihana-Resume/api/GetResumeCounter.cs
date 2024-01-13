@@ -13,6 +13,10 @@ using System.Net.Http;
 using Microsoft.Azure.Cosmos.Serialization.HybridRow.Schemas;
 using Microsoft.Azure.Cosmos;
 using System.Text;
+using Microsoft.Azure.WebJobs.Extensions.CosmosDB;
+using Microsoft.Azure.Documents; // For Id and PartitionKey
+using Microsoft.Extensions.Configuration;
+
 
 namespace Company.Function
 {
@@ -21,8 +25,8 @@ namespace Company.Function
         [FunctionName("GetResumeCounter")]
         public static HttpResponseMessage Run(
         [HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)] HttpRequest req,
-        [CosmosDB(databaseName: "AzureResume", collectionName: "Counter", ConnectionStringSetting = "AzureResumeConnectionString", Id = "1", PartitionKey = "")] Counter<int> counter, // Specify type argument
-        [CosmosDB(databaseName: "AzureResume", collectionName: "Counter", ConnectionStringSetting = "AzureResumeConnectionString", Id = "1", PartitionKey = "")] out Counter<int> updatedCounter, // Specify type argument
+        [CosmosDB(databaseName: "AzureResume", collectionName: "Counter", ConnectionStringSetting = "AzureResumeConnectionString", Id = "1", PartitionKey = "1")] Counter<int> counter, // Specify type argument
+        [CosmosDB(databaseName: "AzureResume", collectionName: "Counter", ConnectionStringSetting = "AzureResumeConnectionString", Id = "1", PartitionKey = "1")] out Counter<int> updatedCounter, // Specify type argument
 
             ILogger log)
         {

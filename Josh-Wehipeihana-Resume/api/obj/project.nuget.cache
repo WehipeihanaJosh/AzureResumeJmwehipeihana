@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/sG3fut3HftlCDv0O25dfCYD3OlkgidkQkQDqiSvIP2AhbfXi6qGJSBG3x0NYoHu3EIbkUBtPwXaGl8yz/LcZw==",
+  "dgSpecHash": "CjdMmP7/coMIMgNdZi2SioqIZv1w4v52dxpheWc/a9FHhq3km0300fDEwIYqsl01pEBIQIuzpbZSuC2wpmwD8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\JMWehipeihana\\Desktop\\My Stuff\\AzureResumeJmwehipeihana\\AzureResumeJmwehipeihana\\Josh-Wehipeihana-Resume\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -31,9 +31,10 @@
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.functions.worker.core\\1.16.1\\microsoft.azure.functions.worker.core.1.16.1.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.functions.worker.extensions.abstractions\\1.3.0\\microsoft.azure.functions.worker.extensions.abstractions.1.3.0.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.functions.worker.extensions.cosmosdb\\4.5.1\\microsoft.azure.functions.worker.extensions.cosmosdb.4.5.1.nupkg.sha512",
-    "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs\\3.0.32\\microsoft.azure.webjobs.3.0.32.nupkg.sha512",
-    "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.core\\3.0.32\\microsoft.azure.webjobs.core.3.0.32.nupkg.sha512",
+    "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs\\3.0.36\\microsoft.azure.webjobs.3.0.36.nupkg.sha512",
+    "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.core\\3.0.36\\microsoft.azure.webjobs.core.3.0.36.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.extensions\\3.0.6\\microsoft.azure.webjobs.extensions.3.0.6.nupkg.sha512",
+    "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.extensions.cosmosdb\\4.2.0\\microsoft.azure.webjobs.extensions.cosmosdb.4.2.0.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.extensions.http\\3.2.0\\microsoft.azure.webjobs.extensions.http.3.2.0.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.host.storage\\3.0.14\\microsoft.azure.webjobs.host.storage.3.0.14.nupkg.sha512",
     "C:\\Users\\JMWehipeihana\\.nuget\\packages\\microsoft.azure.webjobs.script.extensionsmetadatagenerator\\4.0.1\\microsoft.azure.webjobs.script.extensionsmetadatagenerator.4.0.1.nupkg.sha512",

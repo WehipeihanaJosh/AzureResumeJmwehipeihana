@@ -1,8 +1,14 @@
 {
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "AzureResumeConnectionString":"AccountEndpoint=https://mycloudresume.documents.azure.com:443/;AccountKey=O3PniC2yOHPzp0LGxSIdzd8aPJlZIcCS1NVR0EVx2h3Soo6JwqsPwhy5Cg4E8lS1mWSWWvNx4aUZACDb9N0b8g==;"
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "AzureResumeConnectionString":"AccountEndpoint=https://mycloudresume.documents.azure.com:443/;AccountKey=O3PniC2yOHPzp0LGxSIdzd8aPJlZIcCS1NVR0EVx2h3Soo6JwqsPwhy5Cg4E8lS1mWSWWvNx4aUZACDb9N0b8g==;",
+      "AzureCosmosDBConnectionString":""
+  },
+
+  "Host":
+  {
+    "CORS": "*"
   }
 }
